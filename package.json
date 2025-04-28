@@ -1,0 +1,28 @@
+{
+    "name": "speechtotext",
+    "version": "1.0.0",
+    "description": "Speech recognition library that uses web-based services to convert speech to text in multiple languages",
+    "main": "index.js",
+    "keywords": [
+      "speech-to-text",
+      "speech-recognition",
+      "voice-recognition",
+      "transcription",
+      "multilingual",
+      "bing-translator",
+      "puppeteer"
+    ],
+    "author": "DeveloperKubilay",
+    "license": "MIT",
+    "type": "commonjs",
+    "dependencies": {
+        "puppeteer": "^24.7.2"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/DeveloperKubilay/SpeechToText.git"
+    }
+  }

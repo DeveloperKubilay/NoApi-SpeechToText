@@ -2,6 +2,8 @@
 
 A simple speech recognition library that uses Bing Translator's web interface to convert speech to text in multiple languages.
 
+Example video: https://www.youtube.com/embed/-dzRtd6fAqU?si=0KtpN0vDuOISEzuF
+
 ## Installation 📦
 
 ```bash
@@ -22,7 +24,7 @@ npm install noapi-speech2text
 const SpeechToText = require('noapi-speech2text');
 
 // Create instance with options (or use defaults)
-const speechToText = new SpeechToText('tr');
+const speechToText = new SpeechToText('en');
 
 // Listen for speech events
 speechToText.on('speech', (text) => {
@@ -68,6 +70,8 @@ Use at your own risk.
 # NoApi-SpeechToText 🎙️✨
 
 Çoklu dillerde konuşmayı metne dönüştürmek için Bing Translator web arayüzünü kullanan basit bir konuşma tanıma kütüphanesi.
+
+Örnek video: https://www.youtube.com/embed/-dzRtd6fAqU?si=0KtpN0vDuOISEzuF
 
 ## Kurulum 📦
 

@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const EventEmitter = require('events');
 
 class SpeechToText extends EventEmitter {
-  constructor(languageCode = 'tr',chromeargs,checkInterval = 700,debug = false) {
+  constructor(languageCode = 'tr',chromeargs = [],checkInterval = 700,debug = false) {
     super();
     this.browser = null;
     this.page = null;

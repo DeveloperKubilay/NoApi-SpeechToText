@@ -136,4 +136,4 @@ Kullanım sorumluluğu size aittir.
 
 
 
-### Developed with ❤️ by DeveloperKubilay
+### Developed by DeveloperKubilay ❤️

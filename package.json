@@ -1,6 +1,6 @@
 {
     "name": "noapi-speech2text",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Speech recognition library that uses web-based services to convert speech to text in multiple languages",
     "main": "index.js",
     "keywords": [
